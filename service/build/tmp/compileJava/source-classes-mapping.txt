@@ -1,2 +1,2 @@
-MyService.java
- MyService
+ru/netology/MyService.java
+ ru.netology.MyService

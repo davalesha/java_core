@@ -1,2 +1,2 @@
-Main.java
- Main
+ru/netology/Main.java
+ ru.netology.Main
