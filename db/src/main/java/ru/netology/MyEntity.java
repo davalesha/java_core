@@ -1,3 +1,5 @@
+package ru.netology;
+
 import java.util.UUID;
 
 public class MyEntity {
@@ -26,6 +28,6 @@ public class MyEntity {
 
     @Override
     public String toString() {
-        return new StringBuilder().append("MyEntity{").append("id=").append(id).append(", name='").append(name).append('\'').append('}').toString();
+        return new StringBuilder().append("ru.netology.MyEntity{").append("id=").append(id).append(", name='").append(name).append('\'').append('}').toString();
     }
 }

@@ -1,3 +1,8 @@
+package ru.netology;
+
+import ru.netology.MyEntity;
+import ru.netology.MyService;
+
 public class Main {
     public static void main(String[] args) {
         MyService myService = new MyService();

@@ -1,3 +1,7 @@
+package ru.netology;//import ru.netology.Db;
+//import ru.netology.DbSetting;
+//import ru.netology.MyEntity;
+
 import java.util.UUID;
 
 public class MyService {
